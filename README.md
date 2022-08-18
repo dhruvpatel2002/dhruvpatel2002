@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Dhruv Patel</h1>
 <h3 align="left">A passionate frontend developer from India</h3><br>
-<p>I'm currently a software engineer at <strong><a href="https://www.snapchat.com/">Snapchat</a></strong> and formerly at <strong><a href="https://aws.amazon.com/">AWS</a></strong> based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
+<p>I'm currently a undergrad persuing computer science from IET DAVV, Indore . I am working on some side projects, learning a couple new dishes, and trying to make myself better everyday.</p>
 
 - 📫 How to reach me **dhruvaepatel@gmail.com**
 
