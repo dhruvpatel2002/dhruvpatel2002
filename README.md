@@ -8,10 +8,10 @@
 <li>🔭 I’m currently learning <a href="https://reactjs.org/">React</a>.</li>
 <li>🧐 Learning about <strong>New Dev Technoliges</strong>, <strong>Computer networks</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/dhruvpatel2002">Github</a>.</li>
-<li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
+<li>📝 You can visit my portfolio website <a href="https://blog.stanleylim.me">Dhruv Patel</a>.</li>
+<li>💬 Ping me about <strong>REACT, DSA and UX/UI</strong>.</li>
 <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
+<li>🎉 Fun Fact: My humour</li>
 </ul>
 
 <img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
