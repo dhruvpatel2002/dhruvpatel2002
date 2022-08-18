@@ -27,5 +27,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvpatel2002&show_icons=true&locale=en&layout=compact" alt="dhruvpatel2002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvpatel2002&" alt="dhruvpatel2002" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="dhruvpatel2002" />
 
