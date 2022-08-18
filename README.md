@@ -2,9 +2,17 @@
 <h3 align="left">A passionate frontend developer from India</h3><br>
 <p>I'm currently a undergrad persuing computer science from IET DAVV, Indore . I am working on some side projects, learning a couple new dishes, and trying to make myself better everyday.</p>
 
-- 📫 How to reach me **dhruvaepatel@gmail.com**
 
-- ⚡ Fun fact **My Humour**
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently learning <a href="https://reactjs.org/">React</a>.</li>
+<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
+<li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
+<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
+<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+<li>🎉 Fun Fact: 我也会讲中文。</li>
+</ul>
 
 <img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 <h3 align="left">Connect with me:</h3>
