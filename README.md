@@ -2,7 +2,7 @@
 <h3 align="left">A passionate frontend developer from India</h3><br>
 <p>I'm currently a undergrad persuing computer science from IET DAVV, Indore . I am working on some side projects, learning a couple new dishes, and trying to make myself better everyday.</p>
 
-<img align="right" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif"  width="400" height="200" />
+<img align="right" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif"  width="350" height="200" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
