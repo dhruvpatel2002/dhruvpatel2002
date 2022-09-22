@@ -6,7 +6,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently learning <a href="https://reactjs.org/">React</a>.</li>
+<li>🔭 I’m currently learning Mern Stack.</li>
 <li>🧐 Learning about <strong>New Dev Technoliges</strong>, <strong>Computer networks</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/dhruvpatel2002">Github</a>.</li>
 <li>📝 You can visit my portfolio website <a href="https://blog.stanleylim.me">Dhruv Patel</a>.</li>
